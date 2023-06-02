@@ -26,4 +26,7 @@ p: hrmanager<br>
 l: jobseeker<br>
 p: jobseeker<br>
 
+Frontend не был реализован до конца ввиду нехватки времени
 
+## Frontend-технологии
+`Typescript`, `React`, `Redux-toolkit`, `Redux-thunk`, `CSS`, `Material UI` 
