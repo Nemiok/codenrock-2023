@@ -1,0 +1,16 @@
+.active {
+  background-color: var(--backgroundColorSecondary);
+  transform: translateY(-2px);
+}
+
+.active p {
+  color: var(--textColorMain);
+
+}
+
+.Navbar__link {
+  padding: 16px 24px;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: transform 0.1s ease-in-out;
+}

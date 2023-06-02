@@ -1,0 +1,16 @@
+./venv
+.DS_Store
+.idea
+__pycache__
+.env
+project.egg-info
+build
+setup.py
+
+*csvs*
+*.pyc
+*logs*
+*.csv
+*.json
+rabbit_receiving.py
+rabbit_test.py

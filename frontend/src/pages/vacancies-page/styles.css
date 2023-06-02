@@ -1,0 +1,14 @@
+.VacanciesPage {
+  max-width: calc(100% - 160px);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.VacanciesPage__SectionGroup {
+  display: grid;
+  grid-template-columns: minmax(calc(736px - 50%), 7fr) minmax(calc(570px - 50%), 4fr);
+  grid-template-rows: 1fr;
+  gap: 31px;
+  padding: 20px 0;
+}

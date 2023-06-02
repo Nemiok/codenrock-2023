@@ -1,0 +1,22 @@
+.VacancyPage {
+  max-width: calc(100% - 160px);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.VacancyPage__VacancyContainer {
+  display: grid;
+  grid-template-columns: 9fr 3fr;
+  grid-template-rows: 1fr;
+  column-gap: 32px;
+  padding: 32px 0;
+}
+
+@media (max-width: 768px) {
+  .VacancyPage__VacancyContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+}

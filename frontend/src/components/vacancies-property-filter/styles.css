@@ -1,0 +1,34 @@
+.VacanciesPropertyFilter {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 41px 30px;
+  padding-bottom: 30px;
+  height: 100%;
+}
+
+.VacanciesPropertyFilter__Label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.VacanciesPropertyFilter__ResetBtn {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 15px 25px;
+  color: var(--accentColor1);
+  border: 1px solid var(--accentColor1);
+  border-radius: 5px;
+  background-color: transparent;
+  cursor: pointer;
+  margin-top: auto;
+  transition: all .1s ease-in-out;
+}
+
+.VacanciesPropertyFilter__ResetBtn:hover {
+  background-color: var(--accentColor1);
+  color: #fff;
+}

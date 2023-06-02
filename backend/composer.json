@@ -1,0 +1,19 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "1.8.2",
+        "dompdf/dompdf": "0.8.3",
+        "jenssegers/blade": "^1.4",
+        "illuminate/database": "^5.8",
+        "illuminate/routing": "^5.8",
+        "maximebf/debugbar": "^1.16",
+        "vonage/client": "^2.4",
+        "aws/aws-sdk-php": "^3.238",
+        "sabre/xml": "^2.2",
+        "php-amqplib/php-amqplib": "^3.4"
+    },
+	"autoload" : {
+		"psr-4" : {
+			"Template\\" : "../../template/frontend"
+		}
+	}
+}

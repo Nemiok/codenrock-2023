@@ -1,0 +1,40 @@
+.VacancyPage__HeroSection {
+  position: relative;
+  padding-top: 20px;
+  gap: 25px;
+}
+
+.BackToVacanciesLink {
+  position: relative;
+  left: -15px;
+  display: flex;
+  gap: 5px;
+  width: max-content;
+  text-decoration: none;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  max-height: 22px;
+}
+
+.BackToVacanciesLink:active {
+  color: var(--accentColor1);
+}
+
+.VacancyPage__HeroBackground {
+  position: absolute;
+  height: 100%;
+  width: calc(100% + 160px);
+  top: 0;
+  left: 0;
+  margin-left: min(-80px, 80%);
+  background-color: var(--backgroundColorSecondary);
+  z-index: -1;
+}
+
+.VacancyPage__FilterContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}

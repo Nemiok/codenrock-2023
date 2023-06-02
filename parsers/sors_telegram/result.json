@@ -1,0 +1,405 @@
+{
+ "name": "Python",
+ "type": "public_supergroup",
+ "id": 1007166727,
+ "messages": [
+  {
+   "id": 777653,
+   "type": "message",
+   "date": "2019-01-18T22:17:07",
+   "date_unixtime": "1547839027",
+   "from": "Vladislav Ivanov",
+   "from_id": "user432428229",
+   "text": "спасибо )",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "спасибо )"
+    }
+   ]
+  },
+  {
+   "id": 777654,
+   "type": "message",
+   "date": "2019-01-18T22:17:54",
+   "date_unixtime": "1547839074",
+   "from": "Александр Федосеев",
+   "from_id": "user489253533",
+   "reply_to_message_id": 777652,
+   "text": "они тебя не приняли?)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "они тебя не приняли?)"
+    }
+   ]
+  },
+  {
+   "id": 777655,
+   "type": "message",
+   "date": "2019-01-18T22:18:54",
+   "date_unixtime": "1547839134",
+   "from": "Vladislav Ivanov",
+   "from_id": "user432428229",
+   "reply_to_message_id": 777654,
+   "text": "не-а )\nДумаю записать видео с субтитрами \"для дебилов\" =)\nЧтобы уж наверняка вопросов не было",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "не-а )\nДумаю записать видео с субтитрами \"для дебилов\" =)\nЧтобы уж наверняка вопросов не было"
+    }
+   ]
+  },
+  {
+   "id": 777656,
+   "type": "message",
+   "date": "2019-01-18T22:19:11",
+   "date_unixtime": "1547839151",
+   "from": "Александр Федосеев",
+   "from_id": "user489253533",
+   "text": "ну вообще они вроде этого и хотят",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ну вообще они вроде этого и хотят"
+    }
+   ]
+  },
+  {
+   "id": 777657,
+   "type": "message",
+   "date": "2019-01-18T22:20:01",
+   "date_unixtime": "1547839201",
+   "from": "Vladislav Ivanov",
+   "from_id": "user432428229",
+   "text": "видел такое в интернете, кто-то писал, но оно немецкое, хотел уточнить, канает ли сейчас такое )\nНу ладно, проверю )",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "видел такое в интернете, кто-то писал, но оно немецкое, хотел уточнить, канает ли сейчас такое )\nНу ладно, проверю )"
+    }
+   ]
+  },
+  {
+   "id": 777658,
+   "type": "message",
+   "date": "2019-01-18T22:20:56",
+   "date_unixtime": "1547839256",
+   "from": "Александр Федосеев",
+   "from_id": "user489253533",
+   "text": "и пройдись по всем пунктам из их правил, проверь что у тебя все ок с ними.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "и пройдись по всем пунктам из их правил, проверь что у тебя все ок с ними."
+    }
+   ]
+  },
+  {
+   "id": 777659,
+   "type": "message",
+   "date": "2019-01-18T22:21:29",
+   "date_unixtime": "1547839289",
+   "from": "Александр Федосеев",
+   "from_id": "user489253533",
+   "text": "это как в apple приложение отправить, там такие же умпа-лумпы проверяют",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "это как в apple приложение отправить, там такие же умпа-лумпы проверяют"
+    }
+   ]
+  },
+  {
+   "id": 777660,
+   "type": "message",
+   "date": "2019-01-18T22:21:47",
+   "date_unixtime": "1547839307",
+   "from": null,
+   "from_id": "user505319208",
+   "text": "Привет неспящим, там все дела, короче я спать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Привет неспящим, там все дела, короче я спать"
+    }
+   ]
+  },
+  {
+   "id": 777665,
+   "type": "message",
+   "date": "2019-01-18T22:51:02",
+   "date_unixtime": "1547841062",
+   "from": "Vladislav Ivanov",
+   "from_id": "user432428229",
+   "reply_to_message_id": 777658,
+   "text": "ок, спасибо, сейчас по пунктам все и проверю )",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ок, спасибо, сейчас по пунктам все и проверю )"
+    }
+   ]
+  },
+  {
+   "id": 777670,
+   "type": "message",
+   "date": "2019-01-18T23:35:23",
+   "date_unixtime": "1547843723",
+   "from": null,
+   "from_id": "user531453784",
+   "text": [
+    {
+     "type": "mention",
+     "text": "@c1oder"
+    },
+    " будет жить. Поприветствуем!"
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@c1oder"
+    },
+    {
+     "type": "plain",
+     "text": " будет жить. Поприветствуем!"
+    }
+   ]
+  },
+  {
+   "id": 777672,
+   "type": "message",
+   "date": "2019-01-18T23:39:26",
+   "date_unixtime": "1547843966",
+   "from": "Кіт ? без шляпи",
+   "from_id": "user502656052",
+   "reply_to_message_id": 777647,
+   "text": "Та ну",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Та ну"
+    }
+   ]
+  },
+  {
+   "id": 777673,
+   "type": "message",
+   "date": "2019-01-18T23:45:46",
+   "date_unixtime": "1547844346",
+   "from": "Nikolay??",
+   "from_id": "user221523833",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 454,
+   "height": 90,
+   "text": "я вышел в интернет что бы работу искать; нахер они мне задачки на булеву алгебру дают",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я вышел в интернет что бы работу искать; нахер они мне задачки на булеву алгебру дают"
+    }
+   ]
+  },
+  {
+   "id": 777674,
+   "type": "message",
+   "date": "2019-01-18T23:46:16",
+   "date_unixtime": "1547844376",
+   "from": "Denis Kalinochkin",
+   "from_id": "user214334796",
+   "text": "знаешь и понимаешь питон?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "знаешь и понимаешь питон?"
+    }
+   ]
+  },
+  {
+   "id": 777675,
+   "type": "message",
+   "date": "2019-01-18T23:46:34",
+   "date_unixtime": "1547844394",
+   "from": "Nikolay??",
+   "from_id": "user221523833",
+   "text": "Питона не знаю; немного понимание есть",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Питона не знаю; немного понимание есть"
+    }
+   ]
+  },
+  {
+   "id": 777676,
+   "type": "message",
+   "date": "2019-01-18T23:46:39",
+   "date_unixtime": "1547844399",
+   "from": "Nikolay??",
+   "from_id": "user221523833",
+   "text": "print 'hello world'",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "print 'hello world'"
+    }
+   ]
+  },
+  {
+   "id": 777677,
+   "type": "message",
+   "date": "2019-01-18T23:46:52",
+   "date_unixtime": "1547844412",
+   "from": "Denis Kalinochkin",
+   "from_id": "user214334796",
+   "text": "а 3 умеешь?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "а 3 умеешь?"
+    }
+   ]
+  },
+  {
+   "id": 777678,
+   "type": "message",
+   "date": "2019-01-18T23:47:03",
+   "date_unixtime": "1547844423",
+   "from": "Nikolay??",
+   "from_id": "user221523833",
+   "text": "почти",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "почти"
+    }
+   ]
+  },
+  {
+   "id": 777679,
+   "type": "message",
+   "date": "2019-01-18T23:47:06",
+   "date_unixtime": "1547844426",
+   "from": "Nikolay??",
+   "from_id": "user221523833",
+   "text": "2.7 это же почти 3",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "2.7 это же почти 3"
+    }
+   ]
+  },
+  {
+   "id": 777680,
+   "type": "message",
+   "date": "2019-01-18T23:47:08",
+   "date_unixtime": "1547844428",
+   "from": "Nikolay??",
+   "from_id": "user221523833",
+   "text": "??",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "??"
+    }
+   ]
+  },
+  {
+   "id": 777681,
+   "type": "message",
+   "date": "2019-01-18T23:51:42",
+   "date_unixtime": "1547844702",
+   "from": "Wqw",
+   "from_id": "user462532145",
+   "text": "Кароче, я перешёл с винды на линукс, и у меня при вводе пароля что ли зависает комп и дальше ничего не происходит, я зашёл в терминал и посмотрел логи(рисунок),Ubuntu если что",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Кароче, я перешёл с винды на линукс, и у меня при вводе пароля что ли зависает комп и дальше ничего не происходит, я зашёл в терминал и посмотрел логи(рисунок),Ubuntu если что"
+    }
+   ]
+  },
+  {
+   "id": 777689,
+   "type": "message",
+   "date": "2019-01-18T23:54:33",
+   "date_unixtime": "1547844873",
+   "from": "Проксимов Прксимович",
+   "from_id": "user300903692",
+   "reply_to_message_id": 777681,
+   "text": [
+    {
+     "type": "mention",
+     "text": "@grouplinux"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "mention",
+     "text": "@grouplinux"
+    }
+   ]
+  },
+  {
+   "id": 777690,
+   "type": "message",
+   "date": "2019-01-18T23:57:36",
+   "date_unixtime": "1547845056",
+   "from": "Wqw",
+   "from_id": "user462532145",
+   "text": "Я там уже спрашивал",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я там уже спрашивал"
+    }
+   ]
+  },
+  {
+   "id": 777691,
+   "type": "message",
+   "date": "2019-01-18T23:58:04",
+   "date_unixtime": "1547845084",
+   "from": "Проксимов Прксимович",
+   "from_id": "user300903692",
+   "reply_to_message_id": 777690,
+   "text": "Иї",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Иї"
+    }
+   ]
+  },
+  {
+   "id": 777692,
+   "type": "message",
+   "date": "2019-01-18T23:58:20",
+   "date_unixtime": "1547845100",
+   "from": "Wqw",
+   "from_id": "user462532145",
+   "text": "Не отвечают",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Не отвечают"
+    }
+   ]
+  },
+  {
+   "id": 777693,
+   "type": "service",
+   "date": "2019-01-19T00:00:56",
+   "date_unixtime": "1547845256",
+   "actor": null,
+   "actor_id": "user730289980",
+   "action": "invite_members",
+   "members": [
+    null
+   ],
+   "text": "",
+   "text_entities": []
+  }
+ ]
+}

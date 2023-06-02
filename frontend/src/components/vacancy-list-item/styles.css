@@ -1,0 +1,81 @@
+.VacanciesSection__VacancyItemTitle {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.VacanciesSection__VacancyItem:hover {
+  cursor: pointer;
+}
+
+.VacancyItem__ActionsMenu,
+.VacancyItem__StatusMenu {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.VacancyItem__StatusBar {
+  display: flex;
+  gap: 8px;
+
+}
+
+.VacancyItem__Status {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.VacancyItem__Properties {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+@media (max-width: 768px) {
+  .VacancyItem__Properties {
+    flex-direction: column;
+  }
+
+  .VacancyItem__PropertiesItem::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    left: -9px;
+    top: 7px;
+    position: absolute;
+    border-radius: 50%;
+    background-position: center center;
+    background-color: #A2AFBF;
+  }
+
+}
+
+.VacancyItem__PropertiesItem {
+  position: relative;
+  line-break: anywhere;
+
+}
+
+.VacancyItem__PropertiesItem:not(:first-of-type)::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  left: -9px;
+  top: 7px;
+  position: absolute;
+  border-radius: 50%;
+  background-position: center center;
+  background-color: #A2AFBF;
+}

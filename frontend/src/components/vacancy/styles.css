@@ -1,0 +1,117 @@
+.VacancySection__TitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.VacancySection__Title {
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 44px;
+  margin-bottom: 15px;
+}
+
+.VacancySection__VacancyContent {
+  display: flex;
+  flex-direction: column;
+  padding: 25px 30px;
+  background-color: var(--backgroundColorSecondary);
+  gap: 20px;
+  border-radius: 25px;
+}
+
+.VacancyContent__Paragraph {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 15px 20px;
+  word-break: break-all;
+  border-radius: 8px;
+}
+
+.VacancyContent__ParagraphTitle {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  margin-bottom: 10px;
+}
+
+.VacancyContent__WorkCriteriaList {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.VacancyContent__WorkCriteriaItem {
+  position: relative;
+}
+
+.VacancyContent__WorkCriteriaItem::before {
+  content: '';
+  position: absolute;
+  height: 4px;
+  width: 4px;
+  top: 10px;
+  left: -10px;
+  border-radius: 50%;
+  background-color: var(--textColorMain);
+}
+
+.VacancyContent__SkillsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.VacancyContent__SkillsItem {
+  padding: 7px 10px;
+  border-radius: 7px;
+  color: var(--textColorMain);
+  background-color: #D0DDED;
+}
+
+.VacancyContent__MainCriteria {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 5px;
+}
+
+.VacancyContent__SecondaryCriteria {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.VacancyContent__SecondaryCriteria p {
+  position: relative;
+}
+
+.VacancyContent__SecondaryCriteria p:not(:first-of-type)::before {
+  content: '';
+  width: 4px;
+  height: 4px;
+  left: -8px;
+  top: 10px;
+  position: absolute;
+  border-radius: 50%;
+  background-position: center center;
+  background-color: #A2AFBF;
+}
+
+.VacancySection__RefreshCandidatesBtn {
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid #60728A;
+}

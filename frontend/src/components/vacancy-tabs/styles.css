@@ -1,0 +1,36 @@
+.VacancyPage__TabList {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  padding: 0;
+  gap: 20px;
+}
+
+.VacancyPage__TabList button {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  background-color: transparent;
+  color: var(--textColorMain);
+  border: none;
+  cursor: pointer;
+}
+
+.VacancyPage__TabItem {
+  padding-bottom: 6px;
+  position: relative;
+}
+
+.VacancyPage__TabItem--Active button {
+  color: var(--accentColor1);
+}
+
+.VacancyPage__TabItem--Active::before {
+  position: absolute;
+  bottom: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background-color: var(--accentColor1);
+}

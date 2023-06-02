@@ -1,0 +1,82 @@
+.VacancyPage__CandidateCardContainer {
+  position: relative;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  gap: 12px;
+}
+
+.VacancyPage__CandidateAvatar {
+  width: max-content;
+  border-radius: 19px;
+  overflow: hidden;
+}
+
+.VacancyPage__PercentSuitable {
+  position: absolute;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  right: 25px;
+  top: 20px;
+  padding: 5px 10px;
+  background: #38D664;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.VacancyPage__CandidateCardJob {
+  font-family: 'Montserrat' !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  line-height: 22px !important;
+}
+
+.VacancyPage__CandidateCardSalary {
+  font-family: 'Montserrat' !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  line-height: 22px !important;
+}
+
+.VacancyPage__CandidateCardCriteriaList {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 10px;
+  gap: 15px;
+}
+
+.VacancyPage__CandidateCardCriteriaItem {
+  word-break: break-all;
+  position: relative;
+}
+
+.VacancyPage__CandidateCardCriteriaItem::before {
+  content: '';
+  width: 4px;
+  height: 4px;
+  left: -10px;
+  top: 10px;
+  position: absolute;
+  border-radius: 50%;
+  background-position: center center;
+  background-color: #A2AFBF;
+}
+
+.InviteBtn {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 8px 70px;
+  color: #FFF;
+  background-color: #FF4A60;
+  border-radius: 5px;
+}
+
+.InviteBtn:hover {
+  background-color: rgb(221 67 75);
+}

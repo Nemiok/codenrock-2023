@@ -1,0 +1,59 @@
+.LoginForm__Content {
+  padding: 2rem;
+  border-radius: 0.25rem;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 1px solid #e5e7eb;
+  transform: translate(-50%, -50%);
+
+}
+
+.LoginForm__Label {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  flex-direction: column;
+  cursor: auto;
+}
+
+.LoginForm__Label>span {
+  margin-bottom: .5rem;
+}
+
+.LoginForm__Label>input {
+  padding: 10px;
+  outline: 1px solid #e5e7eb;
+}
+
+.LoginForm__Title {
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  margin-bottom: 10px;
+}
+
+.LoginForm__SignInBtn {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 8px 70px;
+  color: #FFF;
+  background-color: #FF4A60;
+  border-radius: 5px;
+  transition: background-color .1s ease-in-out;
+}
+
+.LoginForm__SignInBtn:hover {
+  background-color: rgb(221 67 75);
+}
+
+.LoginForm__ErrorItem {
+  color: #FF4A60;
+}
